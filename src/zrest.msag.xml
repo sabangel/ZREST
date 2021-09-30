@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZREST</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+    <STEXT>Mensajes procesamiento peticiones servicio</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Error al leer estructura JSON. Revisar el payload (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error al leer campo &amp; de estructura JSON.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>No se encontró procesador para el id &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Payload &amp; validado ok</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Componente &amp; no asignado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Error validación payload: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Error interno: valor no asignado: &amp; (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Error interno. Parám. entrada no válido. &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error campo entrada: falta campo oblitatorio &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Error campo entrada: se esperaba una estructura &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Campo &amp; debe ser númerico entero pero entra &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Campo &amp; debe ser númerico pero entra &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Campo &amp; debe ser fecha pero entra &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Campo &amp; debe ser hora pero entra &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Error interno (&amp;): &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Error conf. campos. Estructura Abap &amp; no pudo ser creada</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Error conf. Campo &amp; en estructura &amp; no asignado (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Err. configuración. Campo &amp; no existe en estructura &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Estructura &amp; no se encuentra en la BAPI &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Error al validar. El campo &amp; del payload es obligatorio (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Error al asignar el valor &amp; del campo &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Error en url. Operación &amp; no definida</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Error en petición. Sistema fuente &amp; no definido</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Error al generar pedido de ventas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Pedido de venta creado correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Error en url. Url no contiene id de operacion</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Error en petición. Payload no existente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Error al validar. Versión &amp; no definida</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>La estructura &amp; del payload es obligatoria</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Error al validar el request: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Error al validar. La estructura &amp; debe ser una lista</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Error al validar. La estructura &amp; debe contener elementos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Error al validar. El campo &amp; no debe tener valores duplicados</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Error al validar. El campo &amp; es obligatorio pero no llegó.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Advertencia al validar. El campo &amp; llegó sin un valor.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Advertencia al validar. El campo &amp; será ignorado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Nota crédito creada correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Error al generar nota crédito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Error no se encontro factura para el documento externo &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Error al generar documento contable.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Documento contable creado correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Error con el tipo de identificación &amp; y numero &amp; no se encontre BP.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Error no se ha podido anular el documento FI.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Anulación creada correctamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Error en petición. Id petición (req_id) vacío (error interno)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Error documento externo &amp; con estatus OK duplicado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Error indicar algunos de los siguientes parametros &amp; o &amp; o &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZREST</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Rango de fechas mayor a 31 días por favor cambiar.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

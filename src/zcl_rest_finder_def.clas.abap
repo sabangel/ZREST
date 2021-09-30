@@ -1,0 +1,21 @@
+CLASS zcl_rest_finder_def DEFINITION
+  PUBLIC
+  INHERITING FROM zcl_rest_finder_base
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+    METHODS find_complements REDEFINITION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_rest_finder_def IMPLEMENTATION.
+
+  METHOD find_complements.
+
+  ENDMETHOD.
+
+ENDCLASS.

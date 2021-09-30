@@ -1,0 +1,3 @@
+FUNCTION-POOL ZGRESTEQUIVALENCIAS.          "MESSAGE-ID ..
+
+* INCLUDE LZGRESTEQUIVALENCIASD...           " Local class definition

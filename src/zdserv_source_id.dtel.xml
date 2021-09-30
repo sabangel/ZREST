@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDSERV_SOURCE_ID</ROLLNAME>
+    <DDLANGUAGE>S</DDLANGUAGE>
+    <DOMNAME>ZDSERV_SOURCE_ID</DOMNAME>
+    <HEADLEN>18</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>18</SCRLEN2>
+    <SCRLEN3>33</SCRLEN3>
+    <DDTEXT>Identificador sistema fuente de la petición</DDTEXT>
+    <REPTEXT>Id. sistema fuente</REPTEXT>
+    <SCRTEXT_S>Id. fuente</SCRTEXT_S>
+    <SCRTEXT_M>Id. sistema fuente</SCRTEXT_M>
+    <SCRTEXT_L>Id. sistema fuente de la petición</SCRTEXT_L>
+    <DTELMASTER>S</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

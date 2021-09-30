@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDRESTNUMDOC</ROLLNAME>
+    <DDLANGUAGE>S</DDLANGUAGE>
+    <HEADLEN>21</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>26</SCRLEN3>
+    <DDTEXT>Número de documento creado</DDTEXT>
+    <REPTEXT>Núm. documento creado</REPTEXT>
+    <SCRTEXT_S>No.Doc</SCRTEXT_S>
+    <SCRTEXT_M>Núm. doc. creado</SCRTEXT_M>
+    <SCRTEXT_L>Número de documento creado</SCRTEXT_L>
+    <DTELMASTER>S</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000012</LENG>
+    <OUTPUTLEN>000012</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
